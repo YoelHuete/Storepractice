@@ -1,0 +1,88 @@
+body{
+  text-align: center;
+  background-color: #fff;
+}
+
+h1 {
+font-family: Lobster;
+
+}
+
+h2 {
+  text-align: center;
+  font-family: Lobster;
+}
+
+p {
+  text-align: center;
+  padding: 10px;
+
+}
+
+.blusa {
+  width: 50;
+}
+
+.image-cover {
+    float: left;
+    width:  550px;
+    height: 550px;
+    object-fit: cover;
+    }
+
+
+.container-m {
+  text-align: center;
+
+}
+
+.botton-container {
+  background-color: #212529;
+  height: 150px;
+}
+
+.font-container {
+  color: #fff;
+  padding-top: 20px;
+}
+
+.image-carrusel {
+  max-width: 80%;
+}
+.navbar {
+  padding-bottom: 30px;
+
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.dress-principal {
+  width: 60%;
+  z-index: -1;
+}
+.container-info {
+  padding-top: 100px;
+  padding-bottom: 200px;
+  border: 20px;
+}
+
+
+.icon {
+  color: #7CD1B8;
+  padding-bottom: 20px;
+  }
+
+.icon:hover{
+  color: #2D4263;
+}
+
+.img-carrusel {
+  width: 60%;
+  text-align: center;
+}
+
+#pricing {
+  padding: 100px;
+}
